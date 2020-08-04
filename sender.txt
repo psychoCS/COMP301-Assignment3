@@ -1,0 +1,3 @@
+If this works, then it should appear just like magic on the other file!
+
+If not, the receiver file will have just one line, and I'll have failled!
