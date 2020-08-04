@@ -27,9 +27,5 @@ with open('data.txt') as csv_file:
             print(f"|Employee Number|Employee Name\t|Hours Worked\t|")
             print("-----------------------------------------------")
             line_count += 1
-        else:
-            print(f'|\t{row[0]}\t|\t{row[2]}\t|\t{row[3]}\t|')
-            print("-----------------------------------------------")
-            line_count += 1
-    print(f'Processed {line_count} lines.')
+        
 
