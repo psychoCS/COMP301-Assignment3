@@ -21,3 +21,24 @@ secondFile = input()
 print()
 print("Ok. Lets transfer the content of the files")
 print()
+
+#b. After the user enters the Destination file name the scripty will copy the contents of the Source file into the Destination file (6 Marks Functionality).
+class FileCopier():
+
+    def copier(self,firstFile,secondFile):
+        print()
+
+    with open(firstFile,'r')as fileData:
+        firstFileContent= fileData.readlines()
+        print("Reading the content on the first file...")
+        print()
+    with open(secondFile,'r')as fileData:
+        secondFileContent= fileData.readlines()
+        print("Reading the content on the second file...")
+        print()
+
+    for eachline in firstFileContent:
+        secondContent = open(secondFile,'a')
+        secondContent.write(eachline)
+    print ("Done. Content from the first file transfered to the second one")
+    print()
