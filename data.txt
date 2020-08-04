@@ -1,0 +1,18 @@
+<101>,<Rogers>,<Steven>,<80>
+<102>,<Stark>,<Anthony>,<3>
+<103>,<Banner>,<Robert>,<60>
+<104>,<Land>,<Scott>,<40>
+<105>,<Challa>,<T>,<60>
+<106>,<Romanova>,<Natalia>,<80>
+<107>,<Barnes Jr.>,<James>,<80>
+<108>,<Danvers>,<Carol>,<60>
+<109>,<Strange>,<Stephen>,<60>
+<110>,<Wilson>,<Samuel>,<80>
+<111>,<Barton>,<Clinton>,<90>
+<112>,<Fury>,<Nicholas>,<100>
+<113>,<Coulson>,<Phillip>,<80>
+<114>,<Maximoff>,<Wanda>,<60>
+<115>,<Parker>,<Peter>,<40>
+<116>,<Odinson>,<Thor>,<60>
+<117>,<Rhodes>,<James>,<40>
+<118>,<Dyne>,<Hope>,<40>
