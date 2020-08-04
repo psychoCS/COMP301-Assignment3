@@ -1,7 +1,8 @@
 ''' 
 Name: copyfile.py
 Author: Thiago Batista
-Description: Assignment 3
+Student Number: 301110966
+Description: Assignment 3 - Task1
 Program: COMP301
 Date: 04/08/2020
 '''
